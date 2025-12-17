@@ -18,7 +18,7 @@ export default function Navbar() {
             </NavLink>
           </li>
           <li>
-            <NavLink to="/services" className="hover:text-amber-400">
+            <NavLink to="/products" className="hover:text-amber-400">
               Productos
             </NavLink>
           </li>
